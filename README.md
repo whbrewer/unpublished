@@ -7,7 +7,3 @@ Papers that I wrote but never published...
 * W. Brewer, "Deploying Cloud Computing for Education in the DPRK", 2016
 
 More to come...
-
-W. Brewer
-
-
